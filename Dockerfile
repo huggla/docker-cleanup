@@ -1,5 +1,5 @@
-# Secure and Minimal image of Samba Share
-# https://hub.docker.com/repository/docker/huggla/sam-samba
+# Secure and Minimal Docker cleanup image
+# https://hub.docker.com/repository/docker/huggla/sam-cleanup
 
 # =========================================================================
 # Init
