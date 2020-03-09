@@ -9,7 +9,7 @@ ARG SaM_VERSION="2.0.1"
 ARG IMAGETYPE="application"
 ARG RUNDEPS="bash docker grep"
 ARG STARTUPEXECUTABLES="/usr/local/bin/run.sh"
-ARG EXECUTABLES="/usr/local/bin/docker-cleanup-volumes.sh
+ARG EXECUTABLES="/usr/local/bin/docker-cleanup-volumes.sh"
 # ARGs (can be passed to Build/Final) </END>
 
 # Generic template (don't edit) <BEGIN>
